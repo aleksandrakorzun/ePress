@@ -1,0 +1,7 @@
+1;Remigiusz;Mróz
+2;Stanisław;Lem
+3;Maria;Konopnicka
+4;J.K.;Rowling
+5;Olga;Tokarczuk
+6;Stephen;King
+7;Wydawnictwo;ABC
