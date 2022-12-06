@@ -55,6 +55,7 @@ public class Main {
 
         while (true) {
 
+            System.out.println("Wybierz opcje");
             b = true;
             System.out.println("0. Wyjscie");
             System.out.println("1. Zarzadzanie autorami");
