@@ -55,6 +55,7 @@ public class Main {
 
         while (true) {
 
+            System.out.println("Wybierz opcje");
             b = true;
             System.out.println("Wybierz akcję");
             System.out.println("0. Wyjscie");
