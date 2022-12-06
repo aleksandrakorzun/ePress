@@ -57,6 +57,7 @@ public class Main {
 
             System.out.println("Wybierz opcje");
             b = true;
+            System.out.println("Wybierz akcjeeeee");
             System.out.println("0. Wyjscie");
             System.out.println("1. Zarzadzanie autorami");
             System.out.println("2. Zarzadzanie umowami");
