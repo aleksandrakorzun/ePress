@@ -56,6 +56,7 @@ public class Main {
         while (true) {
 
             b = true;
+            System.out.println("Wybierz akcję");
             System.out.println("0. Wyjscie");
             System.out.println("1. Zarzadzanie autorami");
             System.out.println("2. Zarzadzanie umowami");
